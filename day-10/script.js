@@ -23,7 +23,6 @@ function flipCard() {
 function checkForMatch() {
   let firstCard = cards[cardsId[0] - 1];
   let secondCard = cards[cardsId[1] - 1];
-  console.log(cardsWon.length);
 
   if (cardsId[0] === cardsId[1]) {
     // console.log("clicked same img");
@@ -33,6 +32,7 @@ function checkForMatch() {
     // console.log("Matched");
     firstCard.classList.add("hide");
     secondCard.classList.add("hide");
+
     cardsWon.push(cardsSelected);
     if (cardsWon.length === cards.length / 2) {
       container.innerHTML = `
