@@ -5,23 +5,23 @@
 }
 
 body {
+  background-color: #333;
   height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
 .container {
-  width: 700px;
-  margin: auto;
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   perspective: 1000px;
 }
 
 .card {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin: 5px;
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
   position: relative;
@@ -47,4 +47,44 @@ body {
 .card.hide {
   transform: rotateY(360deg);
   opacity: 0;
+}
+
+.card.reset {
+  transform: rotateY(360deg);
+}
+
+.btn {
+  background-color: slateblue;
+  color: #fff;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 8px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-family: sans-serif;
+  cursor: pointer;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:hover {
+  background-color: tomato;
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+h1 {
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.container.won {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
