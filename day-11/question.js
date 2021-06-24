@@ -6,6 +6,7 @@ export const arr = [
     option3: "Pune",
     option4: "Mumbai",
     answer: 4,
+    completed: false,
   },
   {
     question:
@@ -15,6 +16,7 @@ export const arr = [
     option3: "8",
     option4: "9",
     answer: 2,
+    completed: false,
   },
   {
     question: "What are the major languages spoken in Andhra Pradesh?",
@@ -23,6 +25,7 @@ export const arr = [
     option3: "Telugu and Urdu",
     option4: "All of the above languages",
     answer: 3,
+    completed: false,
   },
   {
     question: "What is the state flower of Haryana?",
@@ -31,6 +34,7 @@ export const arr = [
     option3: "Lotus",
     option4: "Not declared",
     answer: 1,
+    completed: false,
   },
   {
     question:
@@ -40,5 +44,6 @@ export const arr = [
     option3: "Jammu and Kashmir",
     option4: "Haryana",
     answer: 1,
+    completed: false,
   },
 ];
