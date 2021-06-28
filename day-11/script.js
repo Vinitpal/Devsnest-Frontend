@@ -1,6 +1,5 @@
 import { arr } from "./question.js";
 
-const container = document.querySelector(".container");
 const question_El = document.querySelector(".question");
 const score_El = document.querySelector("span");
 const option_p_El = document.querySelectorAll(".option-p");
