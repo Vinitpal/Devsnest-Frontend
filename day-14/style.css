@@ -19,18 +19,22 @@ body {
 
 .row {
   display: flex;
-  text-align: center;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   background-color: #a7a9be;
   width: 200px;
   height: 50px;
+  padding: 16px;
 }
 
 a {
   color: #fffffe;
   font-size: 1.4rem;
-  margin: 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 0.6;
 }
 
 i {

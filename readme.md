@@ -14,3 +14,7 @@ This repo includes all my Take Home Assignment(THA) given in frontend module of 
 | [Day8](./day-08/script.js)        | Checkbox Invader    | [link](https://vinitpal.github.io/Devsnest-Frontend/day-08)                  |
 | [Day9](./day-09)                  | Book your seats     | [link](https://vinitpal.github.io/Devsnest-Frontend/day-09/index.html)       |
 | [Day10](./day-10)                 | Memory Cards        | [link](https://vinitpal.github.io/Devsnest-Frontend/day-10/index.html)       |
+| [Day10](./day-11)                 | Quiz App            | [link](https://vinitpal.github.io/Devsnest-Frontend/day-11/index.html)       |
+| [Day10](./day-12)                 | Todo List           | [link](https://vinitpal.github.io/Devsnest-Frontend/day-12/index.html)       |
+| [Day10](./day-13)                 | Api App             | [link](https://vinitpal.github.io/Devsnest-Frontend/day-13/index.html)       |
+| [Day10](./day-14)                 | JS Events App       | [link](https://vinitpal.github.io/Devsnest-Frontend/day-14/index.html)       |
