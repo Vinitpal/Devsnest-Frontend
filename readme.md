@@ -23,3 +23,4 @@ This repo includes all my Take Home Assignment(THA) given in frontend module of 
 | [Day17](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-17) | calorie app basic          | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-17)        |
 | [Day18](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-18) | chessBoard and calorie 2.0 | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-18)        |
 | [Day19](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-19) | Handling state in react    | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-19)        |
+| [Day20](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-20) | Handling state in react    | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-20)        |
