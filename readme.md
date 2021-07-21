@@ -26,3 +26,6 @@ This repo includes all my Take Home Assignment(THA) given in frontend module of 
 | [Day20](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-20) | Calorie Meter with delete btn          | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-20)        |
 | [Day21](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-21) | Calorie Meter with all crud operations | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-21)        |
 | [Day22](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-22) | Meme Generator App                     | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-22)        |
+| [Day23](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-23) | React Hooks                            | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-23)        |
+| [Day24](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-24) | React context and private routing      | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-24)        |
+| [Day25](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-25) | Using bootstrap in react               | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-25)        |
