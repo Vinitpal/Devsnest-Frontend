@@ -30,3 +30,4 @@ This repo includes all my Take Home Assignment(THA) given in frontend module of 
 | [Day24](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-24) | React context and private routing      | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-24)        |
 | [Day25](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-25) | Using bootstrap in react               | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-25)        |
 | [Day26](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-26) | Redux basics                           | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-26)        |
+| [Day27](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-27) | Todo App with Redux                    | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-27)        |
