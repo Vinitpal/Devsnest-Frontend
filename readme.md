@@ -32,3 +32,7 @@ This repo includes all my Take Home Assignment(THA) given in frontend module of 
 | [Day26](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-26) | Redux basics                           | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-26)        |
 | [Day27](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-27) | Todo App with Redux                    | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-27)        |
 | [Day28](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-28) | Weather App                            | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-28)        |
+| [Day29](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-29) | Weather App 2                          | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-29)        |
+| [Day30](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-30) | Basic Ecommerce                        | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-30)        |
+| [Day33](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-33) | Todo App with typescript               | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-28)        |
+| [Day34](https://github.com/Vinitpal/Devsnest-React-THAs/tree/main/src/day-34) | Note App with typescript               | [link](https://vinitpal.github.io/Devsnest-React-THAs/build/#/day-34)        |
